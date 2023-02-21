@@ -4,10 +4,10 @@ import React, { useEffect } from "react";
 import { MeshBasicMaterial } from "three";
 import { Nero } from "../models/Nero";
 // import { CarTwo } fro./CarTwoTwo";
-import { Bumble } from "./Bumble";
+
 import Floor from "./Floor";
 import Ground from "./Ground";
-import { Hover } from "./Hover";
+
 import { Sl } from "../models/Sl";
 import { Mustang } from "../models/Mustang";
 
@@ -19,7 +19,7 @@ function CarShow({}: Props) {
   return (
     <>
       <OrbitControls target={[0, 0.35, 0]} maxPolarAngle={1.45} />
-      <PerspectiveCamera makeDefault position={[3, 1, 5]} fov={20} />
+      <PerspectiveCamera makeDefault position={[3, 2, 5]} fov={20} />
       <color args={[0, 0, 0]} attach="background" />
 
       <spotLight
@@ -40,7 +40,7 @@ function CarShow({}: Props) {
         castShadow
         shadow-bias={-0.0001}
       />
-      <Hover />
+
       <Mustang />
       <Sl />
       <Nero />

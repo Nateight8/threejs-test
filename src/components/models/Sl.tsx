@@ -61,9 +61,9 @@ export function Sl(props: JSX.IntrinsicElements["group"]) {
   const { nodes, materials, animations } = useGLTF(
     "/models/sl/scene.gltf"
   ) as GLTFResult;
-  const { actions } = useAnimations<GLTFActions>(animations, group);
+  // const { actions } = useAnimations<GLTFActions>(animations, group);
   return (
-    <group ref={group} {...props} dispose={null} position={[0, 0, 0]}>
+    <group {...props} dispose={null} position={[0, 0, 0]}>
       <group name="Sketchfab_Scene">
         <group
           name="Sketchfab_model"
