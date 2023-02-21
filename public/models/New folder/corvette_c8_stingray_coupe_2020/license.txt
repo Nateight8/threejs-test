@@ -1,0 +1,11 @@
+Model Information:
+* title:	Corvette C8 Stingray Coupe 2020
+* source:	https://sketchfab.com/3d-models/corvette-c8-stingray-coupe-2020-778a7163ddf243b98cb081470fd3e735
+* author:	CARS2024 (https://sketchfab.com/CARS2024)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Corvette C8 Stingray Coupe 2020" (https://sketchfab.com/3d-models/corvette-c8-stingray-coupe-2020-778a7163ddf243b98cb081470fd3e735) by CARS2024 (https://sketchfab.com/CARS2024) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

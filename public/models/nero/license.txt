@@ -1,0 +1,11 @@
+Model Information:
+* title:	Corvette C2 Nero
+* source:	https://sketchfab.com/3d-models/corvette-c2-nero-9456ab58673a41048177534bf0d9301b
+* author:	Carrozze DÄULARI (https://sketchfab.com/alhertenberger)
+
+Model License:
+* license type:	CC-BY-ND-4.0 (http://creativecommons.org/licenses/by-nd/4.0/)
+* requirements:	Author must be credited. Modified versions can not be distributed. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Corvette C2 Nero" (https://sketchfab.com/3d-models/corvette-c2-nero-9456ab58673a41048177534bf0d9301b) by Carrozze DÄULARI (https://sketchfab.com/alhertenberger) licensed under CC-BY-ND-4.0 (http://creativecommons.org/licenses/by-nd/4.0/)

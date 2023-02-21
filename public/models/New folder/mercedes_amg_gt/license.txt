@@ -1,0 +1,11 @@
+Model Information:
+* title:	MERCEDES_AMG_GT
+* source:	https://sketchfab.com/3d-models/mercedes-amg-gt-6f0496eb232b49feb0a109d53b01d4ec
+* author:	S3DCreation (https://sketchfab.com/S3DCreation)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "MERCEDES_AMG_GT" (https://sketchfab.com/3d-models/mercedes-amg-gt-6f0496eb232b49feb0a109d53b01d4ec) by S3DCreation (https://sketchfab.com/S3DCreation) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
