@@ -124,7 +124,7 @@ type GLTFResult = GLTF & {
 export function Nero(props: JSX.IntrinsicElements["group"]) {
   const { nodes, materials } = useGLTF("models/nero/scene.gltf") as GLTFResult;
   return (
-    <group position={[3, 0, 0]} {...props} dispose={null}>
+    <group position={[0, 0, 0]} {...props} dispose={null}>
       <group position={[0, -0.08, 0]} scale={[1, 1, 0.98]}>
         <mesh geometry={nodes.Object_4.geometry} material={materials.nero} />
         <mesh geometry={nodes.Object_5.geometry} material={materials.gummi} />

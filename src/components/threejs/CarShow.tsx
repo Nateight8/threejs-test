@@ -3,11 +3,7 @@ import { useLoader } from "@react-three/fiber";
 import React, { useEffect } from "react";
 import { MeshBasicMaterial } from "three";
 import { Nero } from "../models/Nero";
-
 import Floor from "./Floor";
-
-import { Sl } from "../models/Sl";
-import { Mustang } from "../models/Mustang";
 
 type Props = {};
 
@@ -37,8 +33,6 @@ function CarShow({}: Props) {
         shadow-bias={-0.0001}
       />
 
-      <Mustang />
-      <Sl />
       <Nero />
       <Floor />
     </>
