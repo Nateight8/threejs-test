@@ -2,11 +2,9 @@ import Head from "next/head";
 import Image from "next/image";
 import { Inter } from "@next/font/google";
 import styles from "@/styles/Home.module.css";
-import ThreeScenes from "@/components/threejs/ThreeScenes";
 import { Canvas } from "@react-three/fiber";
 import { Suspense } from "react";
 import CarShow from "@/components/threejs/CarShow";
-import Ground from "@/components/threejs/Ground";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -20,8 +18,6 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main style={{ height: "100vh" }}>
-        {/* <img src="/textures/rough.jpg" /> */}
-
         <Suspense fallback={null}>
           <Canvas>
             <CarShow />
