@@ -3,15 +3,11 @@ import { useLoader } from "@react-three/fiber";
 import React, { useEffect } from "react";
 import { MeshBasicMaterial } from "three";
 import { Nero } from "../models/Nero";
-// import { CarTwo } fro./CarTwoTwo";
 
 import Floor from "./Floor";
-import Ground from "./Ground";
 
 import { Sl } from "../models/Sl";
 import { Mustang } from "../models/Mustang";
-
-// import { MeshBasicMaterial } from "three";
 
 type Props = {};
 
